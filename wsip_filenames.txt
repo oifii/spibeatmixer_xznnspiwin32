@@ -1,0 +1,7 @@
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\samples_fbm\fbm_4bars.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\samples_fbm\fbm-claves_3bars.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\samples_fbm\fbm-hh_2bars.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\samples_fbm\fbm-low_1beat.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\samples_fbm\fbm-low_2bars.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\samples_fbm\fbm-off_1bar.wav
+D:\oifii-org\httpdocs\ha-org\had\dj-oifii\xznnspi\samples_fbm\fbm-snare_1bar.wav
